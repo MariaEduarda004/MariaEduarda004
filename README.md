@@ -1,7 +1,7 @@
 
 ## 👩‍💻 Sobre Mim
 
-Olá 👋, meu nome é Maria Eduarda Carvalho Lemos, atualmente cursando o quarto semestre do curso de Tecnólogo em Sistemas para Internet no IFSul, campus Charqueadas. 
+Olá 👋, meu nome é Maria Eduarda Carvalho Lemos, atualmente cursando o quinto semestre do curso de Tecnólogo em Sistemas para Internet no IFSul, campus Charqueadas. 
 
 ### 🛠️ Tecnologias
 
