@@ -1,19 +1,19 @@
 
 ## 👩‍💻 Sobre Mim
 
-Olá 👋, meu nome é Maria Eduarda Carvalho Lemos, atualmente cursando o quinto semestre do curso de Tecnólogo em Sistemas para Internet no IFSul, campus Charqueadas. 
+Olá 👋, meu nome é Maria Eduarda Carvalho Lemos, atualmente cursando o sexto semestre do curso de Tecnólogo em Sistemas para Internet no IFSul, campus Charqueadas. 
 
 ### 🛠️ Tecnologias
 
-Minhas atividades diárias envolvem o uso de tecnologias avançadas, com foco especial nas soluções da Software AG, como o webMethods. Também tenho experiência sólida em trabalhar com frameworks como Laravel e Java para desenvolvimento web.
+Atuo diariamente com tecnologias avançadas, especialmente com webMethods da Software AG. Tenho experiência sólida com Laravel, Java e conhecimentos consolidados em arquitetura de sistemas e DevOps.
 
 ### 📚 Educação
 
-- Cursando o quarto semestre do Tecnólogo em Sistemas para Internet.
+- Cursando o sexto semestre do Tecnólogo em Sistemas para Internet.
 
 ### 💼 Experiência Profissional
 
-- Analista de Desenvolvimento na Lebes: Responsável por integrações com terceiros e fornecedores.
+- Analista de Desenvolvimento na Lebes: Responsável por integrações com terceiros e fornecedores, desenvolvimento de sistemas internos, sustentação e manutenção das integrações middleware.
 
 - Desenvolvedora e Chefe do Setor de Desenvolvimento na TMW Telecom: Liderei a equipe de desenvolvimento, supervisionando projetos e garantindo a entrega bem-sucedida de soluções tecnológicas.
 
